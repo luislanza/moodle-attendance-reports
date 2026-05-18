@@ -1,0 +1,13 @@
+# Moodle config (never commit real credentials)
+config.php
+
+# TCPDF library (install separately)
+libs/
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHP logs
+*.log
